@@ -1,0 +1,9 @@
+#Here I used Google Fiannce to get stock data and manupilated it in various ways to get some valuable information on stocks. 
+
+Most of the markers here can be easily found of Yahoo Finance, therefore, it was a good way to check by work. 
+
+The sheet is set to auto update every minute but the lag in Google Finance updating causes the numbers to be off from real-time observed values.
+
+The pie-chart of portfolio diversity also dynamically changes at stocks are added or removed from the sheet.
+
+link to the sheet: https://docs.google.com/spreadsheets/d/1ltYAC7WiRiU9Df3KqxGF5QBxKjqI2qKKhoWxQK6TOiQ/edit?usp=sharing
